@@ -84,9 +84,9 @@ project-serverless-image-pipeline/
 
 ## Documentation
 
-- 📘 **Build Steps:** [howto.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/1d8e721c46af82fd22e6a02192ccba7cbba46db4/docs/howto.md)  
-- 🧹 **Cleanup Guide:** [cleanup.md]([./cleanup.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/d4c855f298c1e46a6e29a2aac5ff67666205c289/docs/cleanup.md))  
-- 💰 **Cost Estimate:** [cost-estimate.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/d4c855f298c1e46a6e29a2aac5ff67666205c289/docs/cost-estimate.md)  
+-  **Build Steps:** [howto.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/1d8e721c46af82fd22e6a02192ccba7cbba46db4/docs/howto.md)  
+-  **Cleanup Guide:** [cleanup.md]([./cleanup.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/d4c855f298c1e46a6e29a2aac5ff67666205c289/docs/cleanup.md))  
+-  **Cost Estimate:** [cost-estimate.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/d4c855f298c1e46a6e29a2aac5ff67666205c289/docs/cost-estimate.md)  
 
 
 ---
