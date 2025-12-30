@@ -56,7 +56,7 @@ User → S3 (Input Bucket) → AWS Lambda → S3 (Output Bucket)
 
 ## Documentation
 
-- 📘 **Build Steps:** [howto.md](.docs/howto.md)  
+- 📘 **Build Steps:** [howto.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/1d8e721c46af82fd22e6a02192ccba7cbba46db4/docs/howto.md)  
 - 🧹 **Cleanup Guide:** [cleanup.md](./cleanup.md)  
 - 💰 **Cost Estimate:** [cost-estimate.md](./cost-estimate.md)  
 
