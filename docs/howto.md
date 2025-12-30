@@ -15,7 +15,7 @@ This document provides a step-by-step walkthrough of how this serverless image p
 ### Upload Test Image
 - Uploaded a sample image to trigger the pipeline
 
-![S3 Upload](screenshots/s3-upload.png)
+![S3 Upload](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/9b11c0db323b9a64c7372137cdacbba5fd636662/screenshots/s3-upload.png)
 
 ---
 
@@ -26,7 +26,7 @@ This document provides a step-by-step walkthrough of how this serverless image p
 - Attached AWSLambdaBasicExecutionRole for logging
 - Added inline policy for least-privilege S3 access
 
-![IAM Role Permissions](screenshots/iam-inline-policy.png)
+![IAM Role Permissions](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/9b11c0db323b9a64c7372137cdacbba5fd636662/screenshots/iam-inline-policy.png)
 
 ---
 
@@ -36,14 +36,14 @@ This document provides a step-by-step walkthrough of how this serverless image p
 - Created Lambda function using Python 3.12
 - Attached existing IAM role
 
-![Lambda Function](screenshots/lambda-function-created.png)
+![Lambda Function](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/9b11c0db323b9a64c7372137cdacbba5fd636662/screenshots/lambda-function-created.png)
 
 ### Lambda Code
 - Reads image from input bucket
 - Copies image to output bucket with new name
 - Logs execution details
 
-![Lambda Code](screenshots/lambda-code.png)
+![Lambda Code](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/9b11c0db323b9a64c7372137cdacbba5fd636662/screenshots/lambda-code.png)
 
 ---
 
@@ -52,10 +52,10 @@ This document provides a step-by-step walkthrough of how this serverless image p
 ### Output Bucket Verification
 - Processed image appears automatically in output bucket
 
-![Output Bucket](screenshots/s3-output-object.png)
+![Output Bucket](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/9b11c0db323b9a64c7372137cdacbba5fd636662/screenshots/s3-output-object.png)
 
 ### CloudWatch Logs
 - Verified successful Lambda execution via logs
 
-![CloudWatch Logs](screenshots/cloudwatch-logs.png)
+![CloudWatch Logs](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/9b11c0db323b9a64c7372137cdacbba5fd636662/screenshots/cloudwatch-logs.png)
 
