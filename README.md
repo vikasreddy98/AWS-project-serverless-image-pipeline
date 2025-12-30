@@ -28,19 +28,18 @@ User → S3 (Input Bucket) → AWS Lambda → S3 (Output Bucket)
 ---
 
 ## Repository Structure
+```
 project-serverless-image-pipeline/
-├── README.md
-│
 ├── architecture/
 │   └── architecture.png
-│
-├── lambda/
-│   └── image_processor.py
 │
 ├── docs/
 │   ├── howto.md
 │   ├── cleanup.md
 │   └── cost-estimate.md
+│
+├── lambda/
+│   └── image_processor.py
 │
 ├── screenshots/
 │   ├── s3-input-bucket.png
@@ -55,7 +54,8 @@ project-serverless-image-pipeline/
 │   ├── s3-output-object.png
 │   └── cloudwatch-logs.png
 │
-└── .gitignore
+└── README.md
+```
 
 
 
