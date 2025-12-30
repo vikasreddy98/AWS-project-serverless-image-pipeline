@@ -6,4 +6,4 @@
 4. Delete the IAM role
 5. Verify CloudWatch log group removal
 
-## Always clean up resources to avoid unexpected charges.
+**Always clean up resources to avoid unexpected charges.**
