@@ -56,7 +56,7 @@ User → S3 (Input Bucket) → AWS Lambda → S3 (Output Bucket)
 
 ## Documentation
 
-- 📘 **Build Steps:** [howto.md](./howto.md)  
+- 📘 **Build Steps:** [howto.md](.docs/howto.md)  
 - 🧹 **Cleanup Guide:** [cleanup.md](./cleanup.md)  
 - 💰 **Cost Estimate:** [cost-estimate.md](./cost-estimate.md)  
 
