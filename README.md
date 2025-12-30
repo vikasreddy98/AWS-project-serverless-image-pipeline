@@ -28,6 +28,34 @@ User → S3 (Input Bucket) → AWS Lambda → S3 (Output Bucket)
 ---
 
 ## Repository Structure
+project-serverless-image-pipeline/
+├── README.md
+│
+├── architecture/
+│   └── architecture.png
+│
+├── lambda/
+│   └── image_processor.py
+│
+├── docs/
+│   ├── howto.md
+│   ├── cleanup.md
+│   └── cost-estimate.md
+│
+├── screenshots/
+│   ├── s3-input-bucket.png
+│   ├── s3-upload.png
+│   ├── s3-lambda-trigger.png
+│   ├── lambda-function-created.png
+│   ├── lambda-code.png
+│   ├── lambda-timeout.png
+│   ├── iam-role-created.png
+│   ├── iam-inline-policy.png
+│   ├── s3-output-bucket.png
+│   ├── s3-output-object.png
+│   └── cloudwatch-logs.png
+│
+└── .gitignore
 
 
 
@@ -57,8 +85,8 @@ User → S3 (Input Bucket) → AWS Lambda → S3 (Output Bucket)
 ## Documentation
 
 - 📘 **Build Steps:** [howto.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/1d8e721c46af82fd22e6a02192ccba7cbba46db4/docs/howto.md)  
-- 🧹 **Cleanup Guide:** [cleanup.md](./cleanup.md)  
-- 💰 **Cost Estimate:** [cost-estimate.md](./cost-estimate.md)  
+- 🧹 **Cleanup Guide:** [cleanup.md]([./cleanup.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/d4c855f298c1e46a6e29a2aac5ff67666205c289/docs/cleanup.md))  
+- 💰 **Cost Estimate:** [cost-estimate.md](https://github.com/vikasreddy98/AWS-project-serverless-image-pipeline/blob/d4c855f298c1e46a6e29a2aac5ff67666205c289/docs/cost-estimate.md)  
 
 
 ---
