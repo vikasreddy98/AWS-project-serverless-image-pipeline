@@ -26,7 +26,7 @@ This document provides a step-by-step walkthrough of how this serverless image p
 - Attached AWSLambdaBasicExecutionRole for logging
 - Added inline policy for least-privilege S3 access
 
-![IAM Role Permissions](screenshots/iam-role-permissions.png)
+![IAM Role Permissions](screenshots/iam-inline-policy.png)
 
 ---
 
