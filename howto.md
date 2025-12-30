@@ -36,7 +36,7 @@ This document provides a step-by-step walkthrough of how this serverless image p
 - Created Lambda function using Python 3.12
 - Attached existing IAM role
 
-![Lambda Function](screenshots/lambda-function.png)
+![Lambda Function](screenshots/lambda-function-created.png)
 
 ### Lambda Code
 - Reads image from input bucket
